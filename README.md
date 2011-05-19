@@ -1,1 +1,1 @@
-These scripts are for [dotjs](https://github.com/defunkt/dotjs).
+My scripts for [dotjs](https://github.com/defunkt/dotjs).
